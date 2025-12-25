@@ -116,6 +116,19 @@ We used the following resources to test and validate JWT security:
 
 ## 📊 Sample Results
 
+<img width="924" height="642" alt="image" src="https://github.com/user-attachments/assets/05925f22-707c-496f-96a2-0914412d8cdb" />
+<img width="824" height="600" alt="image" src="https://github.com/user-attachments/assets/ff980665-cd1a-4b8c-8393-96b37279ddb6" />
+<img width="976" height="692" alt="image" src="https://github.com/user-attachments/assets/1d770d65-3242-4519-aabf-aed53e5adcf5" />
+<img width="914" height="594" alt="image" src="https://github.com/user-attachments/assets/45716264-caec-423c-8881-85c0297063c6" />
+<img width="898" height="580" alt="image" src="https://github.com/user-attachments/assets/e97b79a3-e760-4220-a584-c08483d24c21" />
+
+
+
+
+
+
+
+
 Below are examples of results obtained during testing:
 - Input validation failures
 - Unauthorized access attempts
