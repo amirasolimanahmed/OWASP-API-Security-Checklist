@@ -138,6 +138,6 @@ https://github.com/amirasolimanahmed/OWASP-API-Security-Checklist
 
 ## ✅ Happy Testing!
 Security is a **process**, not a one-time task.  
-Automate early, test continuously, and always tie controls back to risk.
+Automate early, test continuously, and always tie controls back to risk. :)
 
 ---
