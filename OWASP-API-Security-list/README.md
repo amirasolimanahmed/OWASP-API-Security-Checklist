@@ -1,4 +1,4 @@
-# API Security Checklist
+# API Security list
 
 This repository contains security checklists and “how to test” guidance for REST APIs.  
 Each topic is documented in its own folder with a dedicated `README.md`.
