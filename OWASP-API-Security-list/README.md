@@ -20,7 +20,7 @@ Each topic is documented in its own folder with a dedicated `README.md`.
 ### Security Foundations
 - [Access Control](./access-control.md)
 - [Input Validation](./input-validation.md)
-- [HTTPS](./https/README.md)
+- [HTTPS](./https.md)
 - [Security Headers](./security-headers.md)
 
 ### Authentication & Web Security
