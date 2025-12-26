@@ -1,8 +1,7 @@
 # OWASP API Security Checklist – Testing & Design Approach
 
 ![OWASP](https://img.shields.io/badge/OWASP-Contributor-blueviolet)
-![Security](https://img.shields.io/badge/Security-API%20%7C%20Web-blue)
-![ISO](https://img.shields.io/badge/ISO%2027001-Practitioner-orange)
+![Security](https://img.shields.io/badge/Security-Backend%20%7C%20REST-blue)
 
 This repository demonstrates how we classified and tested the **OWASP API Security Checklist** using **Robot Framework** and supporting security tools.
 
