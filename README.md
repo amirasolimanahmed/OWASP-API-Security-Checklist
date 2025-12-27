@@ -1,5 +1,8 @@
 # OWASP API Security Checklist – Testing & Design Approach
 
+![Repo Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=green&style=for-the-badge)
+
+
 ![OWASP](https://img.shields.io/badge/OWASP-Contributor-blueviolet)
 ![Security](https://img.shields.io/badge/Security-API%20%7C%20REST%20%7C%20API-blue)
 
